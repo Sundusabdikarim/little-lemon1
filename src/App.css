@@ -1,0 +1,89 @@
+body {
+  padding: 0px;
+  margin: 10px;
+}
+.menu {
+  background-color: black;
+  border-radius: 10px;
+}
+ ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+.menu a {
+  padding: 20px;
+  color: aliceblue;
+  text-decoration: none;
+}
+.background {
+  background-image: url(file:///D:/website%20pictures/yonFVRknQEiJxVUZJzBIkA_c0e0039d4ddd4a33bc1c0854ba0361e1_Little-Lemon-logos/pexels-photo-1640773.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.background h1 {
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+.background p {
+  color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+}
+.sawirroguud {
+  display: flex;
+}
+
+.sawirro {
+  background-color: antiquewhite;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 20px;
+}
+
+.sawirro img {
+  max-width: 300px;
+}
+
+.sawirro a {
+  color: blue;
+}
+
+.sawirro div {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+}
+
+.nav img {
+  max-width: 200px;
+  max-height: 100px;
+}
+
+hr {
+  margin-top: 20px;
+  color: black;
+  max-width: 400px;
+}
+
+.coppy {
+  text-align:center;
+  margin-top: 20px;
+  color: azure;
+  
+}
+footer{
+  background-color: black;
+  padding: 30px;
+}
+
+
+
+
